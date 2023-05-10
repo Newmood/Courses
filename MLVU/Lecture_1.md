@@ -13,11 +13,13 @@ Classification where we assign the new data to classes, for example marking an e
 **Unsupervised Learning** is when there is only input data, no output data. Or we can say, we have unlabelled input data. (We have labelled input data in case of Supervised learning). In such an approach our goal might be to find patterns in the data, clusters them based on similar features.  
 Examples include clustering, dimensionality reduction and generative modelling.
 
-**Semi Supervised Learning** is a way where we have both labelled and unlabelled data. First we train on labelled data then predict for the unlabelled data, and then the entire set becomes our training data and this process is repeated. The method exists because obtaining labelled data can be costly. Regression and classification can be used for semi supervised learning.
-
 **Reinforcement Learning** : https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
 
 **Online Learning** : This is a technique where data is acquired sequentially ("one datum at a time") and updated in predictor. It learning and predicting at the same time.
+
+**Semi Supervised Learning** is a way where we have both labelled and unlabelled data. First we train on labelled data then predict for the unlabelled data, and then the entire set becomes our training data and this process is repeated. The method exists because obtaining labelled data can be costly. Regression and classification can be used for semi supervised learning.
+
+**Self-supervised learning:** Also known as predictive learning or pretext learning. Examples: masking, auto-regressive modelling.
 
 ### Loss function
 **Loss function:** Loss function can be thought of as a measure of how good a model is. The lower the value of loss funciton, the better the model is.
