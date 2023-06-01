@@ -32,3 +32,37 @@ Restore a deleted drive or files, Manage shared drive sharing settings, Manage m
 2. Which of the following features are only available in advanced management? (Choose 2) Android work profiles, device approvals
 3. An end user in your organization has lost their device. This is a personal device with a work profile. Based on this training, what would be your next step? Wipe the device to remove the suer's profile
 4.How can you automatically manage a device that falls out of compliance with your organization's policies? Add a device management rule
+
+#### Vault
+- Used for archiving, legal holds, search and export data.
+- Retention rules: Default, Custom
+- Creating matters
+1. What data types are supported by Vault? (Choose 3) Groups, Drive, Meet
+2. When is a default retention rule applied to a message or a file? Only when there are no applicable custom retention rules or holds in place
+3. What constraints/filters are available in the search form? (Choose 3) Data Type (Mail, Drive etc); Organizational Unit (OU); Specific Accounts
+4. How long are export files available for download? 15days
+
+#### Reporting
+- Monitor google workspace usage from admin console and Rports API
+- View audit logs (can also create email alerts
+1. What information can you find on the main report (the highlights) page? (Choose 3) Apps usage, Users account status, External file sharing
+2. Your IT manager would like to know what changes have been made to your Google Workspace organizations settings. Where would you find this information? Admin audit log
+3. What is editable in a System Defined Rule? Actions
+
+#### Domain Management
+- A domain alias gives each user in the primary domain an additional email adress (no additional license costs)
+- A secondary domain is a new domain purchased, where we can add new users, each with a new license
+- Users may work incertain Google products with users from other Google Workspace domains outside of your organization.
+1. Your organization has just purchased another company that has their own domain. They will be using Google Workspace and you want them to be able to continue receiving email to their existing address. What approach would you take? Add the new domain as a new (secondary) domain to your Google Workspace account.
+2. Your company regularly works with another company that also uses Google Workspace and you wish to make it easier for users to collaborate using Drive. What action would you take? Add their primary domain, subdomains and any aliases to your list of trusted domains
+3. Domain aliases do not require additional Google Workspace licenses. Domain aliases can only be applied to the primary domain from the admin console.
+
+#### Import and Export data
+- Migration: Administration led migration or user-led migration
+- Migration tools: GWMNE, GWM, GWMHN, DMS, GWMMO
+
+#### Troubleshooting
+- Google workspace status dashboard
+- Administrators can use support from admin console
+- Google admin toolbox: easy to use tools, troubleshoot usual problems
+- Check MX
