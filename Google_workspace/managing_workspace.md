@@ -26,3 +26,9 @@ From the Drive and Docs service settings page
 Restore a deleted drive or files, Manage shared drive sharing settings, Manage members
 
 #### Device Management
+- There are two levels of mobile management- Basic and Advanced. In Basic, we can ask for a screenlock or password for each mobile device (Enabled by default). For more control, advanced, stronger device passwords, possible to wipe all data from devices.
+- Handling a lost or non-compliant device (wiping and blocking a device)
+1. What icon do you click on the admin console in order to access the Google Device Management toolset? Devices
+2. Which of the following features are only available in advanced management? (Choose 2) Android work profiles, device approvals
+3. An end user in your organization has lost their device. This is a personal device with a work profile. Based on this training, what would be your next step? Wipe the device to remove the suer's profile
+4.How can you automatically manage a device that falls out of compliance with your organization's policies? Add a device management rule
