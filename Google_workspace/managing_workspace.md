@@ -24,3 +24,5 @@ Enable the feature that warns users when sharing outside the organization
 From the Drive and Docs service settings page
 5. What actions can you take as administrator from the Managed shared drives area in the admin console? (Choose 3) 
 Restore a deleted drive or files, Manage shared drive sharing settings, Manage members
+
+#### Device Management
