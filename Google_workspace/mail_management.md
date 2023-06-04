@@ -12,3 +12,18 @@
 
 
 #### Email security
+- Authorise SPF
+- Authenticate DKIM
+- Manage spam with DMARC
+
+1. What is the main purpose of a Sender Policy Framework (SPF) record? It specifies which servers/domains can send messages on your behalf
+2. You have been asked to implement DomainKeys Identified Mail (DKIM) for your organization. How would you do this?  Generate a DKIM record from Apps > Google Workspace > Gmail > Authenticate email. Add the record to your DNS records and then start authentication from the admin console
+3. What policy defines what to do if an incoming message is not authenticated? DMARC
+4. DKIM adds an encrypted signature to the header of all outgoing messages. What happens if you don't turn on email signing with your own domain DKIM key? Gmail signs all outgoing messages with this default DKIM domain key d=*.gappssmtp.com
+
+#### Email safety, end user access
+
+
+
+
+
