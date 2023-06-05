@@ -46,6 +46,24 @@ Google Certificate; Entity ID URL; SSO URL
 3. When examining messages in the security investigation tool what actions can you apply to a message? (Choose 3) Mark message as spam; Delete message; View header
 4. You have been asked by your CEO to provide a list of users who have not yet enrolled into 2-step Verification. Where can you find that information?  Users Account Activity Report
 
+#### Spam, Phishing and Malware 
+1. Messages from a single person that you trust are being marked as spam by Gmail. What approach is best to ensure that these messages reach the intended recipients inboxes? Add a spam setting which bypasses spam filters for messages received from addresses within an approved senders list. Add the user's email address to the list
+2. Which of the following are reasons to use an inbound gateway? (Choose 2) Spam filtering; Message archiving
+3. Your organization has been receiving unwanted emails from another organization and attempts by you to get the organization to stop sending the emails have failed. How can you stop messages from this organization from reaching your users? Configure a blocked senders list and add the domain name to the list
+
+#### Compliance
+Complaince rules can scan for 
+- Attachment compliance
+- Content compliance (checks for specific words or phrases)
+- Objectionable content
+If a message matches a compliance rule:
+- The msg can be rejected
+- The msg can be quarantined
+- The msg can modified
+
+
+
+
 
 
 
