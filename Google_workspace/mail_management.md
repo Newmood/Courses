@@ -22,6 +22,17 @@
 4. DKIM adds an encrypted signature to the header of all outgoing messages. What happens if you don't turn on email signing with your own domain DKIM key? Gmail signs all outgoing messages with this default DKIM domain key d=*.gappssmtp.com
 
 #### Email safety, end user access
+- Configure email safety
+- End user access
+
+1. The attachment section in the Gmail Safety settings page allows you to protect against malicious attachments. What actions can you perform on a suspicious attachment? (Choose 2) Keep email in inbox and show warning; Move email to spam
+2. What are valid reasons for allowing per-user outbound gateways in your organization? (Choose 2) An outbound gateway can prevent the appearance of "on behalf of" addresses in the From field; An outbound gateway ensures that the same mail server delivers all messages from otherdomain and that server has a record that the mail has been sent
+3. Google recommends against the use of the Image URL proxy whitelist? True
+4. You have enabled protection against anomalous attachment types in emails from the Gmail > Safety page but you are finding some emails with valid attachment types are not being delivered. How can you resolve this? Add an allowlist of allowable file types to the entry in the Attachments section on the Safety page
+
+
+#### Prevention of spam, phishing and malware
+
 
 
 
