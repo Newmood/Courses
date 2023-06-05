@@ -55,15 +55,30 @@ Google Certificate; Entity ID URL; SSO URL
 Complaince rules can scan for 
 - Attachment compliance
 - Content compliance (checks for specific words or phrases)
-- Objectionable content
+- Objectionable content  
+
 If a message matches a compliance rule:
 - The msg can be rejected
 - The msg can be quarantined
 - The msg can modified
 
+Advanced compliance:
+- Email and chat auto deletion
+- OCR for email attachments
+- Restrict delivery
+- Security sandbox
+
+1. In which type of compliance control can you apply a Data Loss Prevention (DLP) rule for Gmail? Content compliance
+2. What actions can an administrator perform on a quarantined message? (Choose 2) Allow; Deny
+3. Which statements are true for an objectionable content rule? (Choose 2) In an objectionable content setting you create word lists for filtering for objectionable content; An objectionable content setting works on inbound and outbound messages
+4. You want to prevent your users from receiving mail from baddomain.com. What is the best way to achieve this? Configure the 'Restrict delivery' setting to prevent message exchange between your users and baddomain.com
 
 
-
+#### Mail routing
+- If environment is 100% Gworkspace, mail routing settings are not required
+- Direct delivery, mails directly go to the gmail
+- Dual delivery, msgs routed to gmail inbox and another systenm
+- Split delivery, either gmail inbox or another mail system (For cases, when some uses gmail and others use another mail service)
 
 
 
