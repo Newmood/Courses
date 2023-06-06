@@ -64,9 +64,12 @@ Advanced compliance:
 - Direct delivery, mails directly go to the gmail
 - Dual delivery, msgs routed to gmail inbox and another systenm
 - Split delivery, either gmail inbox or another mail system (For cases, when some uses gmail and others use another mail service)
+- More mail routing controls (Archive all legal dept mails, non-gmail mailbox, SMTP relay service)
 
-
-
+1. Which mail delivery scheme allows messages to be delivered to multiple mailboxes? Dual delivery
+2. Which features in Google Workspace can be used to leverage Google's spam protection for users who are on a non-Gmail mail platform? (Choose 2) Non-Gmail mailbox; SMTP Relay service
+3. What advantages does a routing setting have over an outbound gateway when you need to route mail through an external mail server? A routing setting can be applied at an OU level; A routing setting can be applied to specific senders and recipients; Address lists can be used to control or bypass a routing setting 
+4. What must you define before you can change the route in a routing setting? A mail host
 
 
 
