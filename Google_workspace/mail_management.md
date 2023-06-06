@@ -31,7 +31,43 @@
 4. You have enabled protection against anomalous attachment types in emails from the Gmail > Safety page but you are finding some emails with valid attachment types are not being delivered. How can you resolve this? Add an allowlist of allowable file types to the entry in the Attachments section on the Safety page
 
 
-#### Prevention of spam, phishing and malware
+#### Spam, Phishing and Malware 
+1. Messages from a single person that you trust are being marked as spam by Gmail. What approach is best to ensure that these messages reach the intended recipients inboxes? Add a spam setting which bypasses spam filters for messages received from addresses within an approved senders list. Add the user's email address to the list
+2. Which of the following are reasons to use an inbound gateway? (Choose 2) Spam filtering; Message archiving
+3. Your organization has been receiving unwanted emails from another organization and attempts by you to get the organization to stop sending the emails have failed. How can you stop messages from this organization from reaching your users? Configure a blocked senders list and add the domain name to the list
+
+#### Compliance
+Complaince rules can scan for 
+- Attachment compliance
+- Content compliance (checks for specific words or phrases)
+- Objectionable content  
+
+If a message matches a compliance rule:
+- The msg can be rejected
+- The msg can be quarantined
+- The msg can modified
+
+Advanced compliance:
+- Email and chat auto deletion
+- OCR for email attachments
+- Restrict delivery
+- Security sandbox
+
+1. In which type of compliance control can you apply a Data Loss Prevention (DLP) rule for Gmail? Content compliance
+2. What actions can an administrator perform on a quarantined message? (Choose 2) Allow; Deny
+3. Which statements are true for an objectionable content rule? (Choose 2) In an objectionable content setting you create word lists for filtering for objectionable content; An objectionable content setting works on inbound and outbound messages
+4. You want to prevent your users from receiving mail from baddomain.com. What is the best way to achieve this? Configure the 'Restrict delivery' setting to prevent message exchange between your users and baddomain.com
+
+
+#### Mail routing
+- If environment is 100% Gworkspace, mail routing settings are not required
+- Direct delivery, mails directly go to the gmail
+- Dual delivery, msgs routed to gmail inbox and another systenm
+- Split delivery, either gmail inbox or another mail system (For cases, when some uses gmail and others use another mail service)
+
+
+
+
 
 
 
