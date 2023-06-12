@@ -4,7 +4,7 @@
 |----|-----------| -----------|
 | 1 | [Private Equity](https://www.coursera.org/learn/private-equity) | To enrol |
 | 2 | Google Project Management | Enrolled, 1/5 |
-| 3 | Google workspace admin | Enrolled, 2/6 |
+| 3 | Google workspace admin | Enrolled, 4/5 |
 | 4 | [Stanford Organizational Analysis](https://www.coursera.org/learn/organizational-analysis) | To enrol |
 | 5 | [Corporate Strategy](https://www.coursera.org/learn/corporatestrategy) | To enrol |
 | 6 | [Akuna Capital Options 101](https://akunacapital.teachable.com/courses/enrolled) | Enrolled, 10% |
