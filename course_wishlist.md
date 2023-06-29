@@ -16,19 +16,17 @@
 
 
 ## Some useful links
-#### [Bruce Ikenaga, Millersville](https://sites.millersville.edu/bikenaga/math-resources.html)
+1. #### [Bruce Ikenaga, Millersville](https://sites.millersville.edu/bikenaga/math-resources.html)
 Notes in pure math topics: linear algebra, abstract algebra calculus, topology, number theory (College level)
 
-#### [Yufei Zhao](https://yufeizhao.com/)
-Combinatorics, math olympiad handouts and other resources 
+2. #### [Alex Remorov](https://alexanderrem.weebly.com/)
+Portfolio management and math olympiad 
 
-#### [Alex Remorov](https://alexanderrem.weebly.com/)
-Quantitiative finance and math olympiad 
-
-#### [Martin Harrier](https://www.hairer.org/)
+3. #### [Martin Harrier](https://www.hairer.org/)
 Stochastic analysis and PDEs, [Harrier's talk on scales](https://youtu.be/TOY52LF_ZTA)
 
-#### [Ingo Ruczinski, John Hopkins](https://www.biostat.jhsph.edu/~iruczins/teaching/)
-Mostly Biostats, good statistics resources in 'Statistical Genomics'
+4. #### [Trading systems developer](https://zoboko.com/read/trading-systems-developer-interview-guide-c-edition-insiders-guide-to-top-tech-jobs-in-finance-6on4n9yv?hash=cc4ff04fce34c5ade2b7c09c18dc3fb4)
+An epub book: Trading systems developer interview guide by Jeff Vogel covering C++, Network, Low latency, system design, interview puzzles and other guidance
 
+5. [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
 
