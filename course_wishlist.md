@@ -28,5 +28,7 @@ Stochastic analysis and PDEs, [Harrier's talk on scales](https://youtu.be/TOY52L
 4. #### [Trading systems developer](https://zoboko.com/read/trading-systems-developer-interview-guide-c-edition-insiders-guide-to-top-tech-jobs-in-finance-6on4n9yv?hash=cc4ff04fce34c5ade2b7c09c18dc3fb4)
 An epub book: Trading systems developer interview guide by Jeff Vogel covering C++, Network, Low latency, system design, interview puzzles and other guidance
 
-5. [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
+5. #### [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
 
+6. #### [QuantPedia Resoruces](https://quantpedia.com/resources/)  
+  Articles, blogs, papers on strategies and portfolio management.
