@@ -31,4 +31,7 @@ An epub book: Trading systems developer interview guide by Jeff Vogel covering C
 5. #### [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
 
 6. #### [QuantPedia Resoruces](https://quantpedia.com/resources/)  
-  Articles, blogs, papers on strategies and portfolio management.
+Articles, blogs, papers on strategies and portfolio management.
+
+7. #### [Stanford ML cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
+Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by Shervine.
