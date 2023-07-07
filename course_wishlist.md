@@ -37,8 +37,8 @@ Articles, blogs, papers on strategies and portfolio management.
 Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by Shervine.
 
 8. #### Shalizi and related
-[Advanced data Analysis from Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)  by Shalizi
-[Almost none of the theory of stochastic processes](https://www.stat.cmu.edu/~cshalizi/almost-none/) by Shalizi and Kentorovich  
-[Shalizi's old teaching page](http://bactra.org/teaching/)  
-[Shalizi main website](https://www.stat.cmu.edu/~cshalizi/)  
-[Julian Faraway directory](https://people.bath.ac.uk/jjf23/)
+    1. [Advanced data Analysis from Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)  by Shalizi
+    2. [Almost none of the theory of stochastic processes](https://www.stat.cmu.edu/~cshalizi/almost-none/) by Shalizi and Kentorovich  
+    3. [Shalizi's old teaching page](http://bactra.org/teaching/)  
+    4. [Shalizi main website](https://www.stat.cmu.edu/~cshalizi/)  
+    5. [Julian Faraway directory](https://people.bath.ac.uk/jjf23/)
