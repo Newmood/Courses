@@ -42,3 +42,6 @@ Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by She
     3. [Shalizi's old teaching page](http://bactra.org/teaching/)  
     4. [Shalizi main website](https://www.stat.cmu.edu/~cshalizi/)  
     5. [Julian Faraway directory](https://people.bath.ac.uk/jjf23/)
+9. More in Linear statistical models and related
+    1. [Linear Models in Statistics](https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf)  by Lencher and Schaalje
+    2. [Ronald Christensen materials](https://www.stat.unm.edu/~fletcher/books.html)
