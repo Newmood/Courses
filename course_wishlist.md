@@ -52,5 +52,13 @@ Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by She
     2. Notes: [Advanced Gradient Descent by C.W. Royer](https://www.lamsade.dauphine.fr/~croyer/ensdocs/GD/LectureNotesOML-GD.pdf)
     3. [Jell Calder](https://www-users.cse.umn.edu/~jwcalder) : [Mathematics of image and data analysis](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf) notes, a good resource for GD, PCA, clustering, DFT/DWT
 
-11. NLP
+11. #### NLP
     1. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+
+12. #### [Julia](https://julialang.org/)
+    1. [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
+    2. MIT course: [Julia Computation](https://github.com/mitmath/JuliaComputation)
+    3. CTU course: [Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
+    4. CTU course: [Scientific Programming in Julia](https://juliateachingctu.github.io/Scientific-Programming-in-Julia/dev/)
+    5. [Julia Data Science](https://juliadatascience.io/)
+    6. 
