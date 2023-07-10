@@ -62,3 +62,4 @@ Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by She
     4. CTU course: [Scientific Programming in Julia](https://juliateachingctu.github.io/Scientific-Programming-in-Julia/dev/)
     5. [Julia Data Science](https://juliadatascience.io/)
     6. [Trading with Julia](https://algo-trading.readthedocs.io/en/latest/introduction-to-julia.html)
+    7. [Julia QuantEcon](https://julia.quantecon.org/intro.html)
