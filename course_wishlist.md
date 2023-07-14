@@ -16,27 +16,16 @@
 
 
 ## Some useful links
-1. #### [Bruce Ikenaga, Millersville](https://sites.millersville.edu/bikenaga/math-resources.html)
-Notes in pure math topics: linear algebra, abstract algebra calculus, topology, number theory (College level)
+1. ### People websites:
+    1. [Bruce Ikenaga, Millersville](https://sites.millersville.edu/bikenaga/math-resources.html) : Notes in pure math topics: linear algebra, abstract algebra calculus, topology, number theory (College level)
+    2. [Alex Remorov](https://alexanderrem.weebly.com/): Portfolio management and math olympiad 
+    3. [Martin Harrier](https://www.hairer.org/): Stochastic analysis and PDEs, [Harrier's talk on scales](https://youtu.be/TOY52LF_ZTA)
+2. ### Quant
+    1. [Trading systems developer](https://zoboko.com/read/trading-systems-developer-interview-guide-c-edition-insiders-guide-to-top-tech-jobs-in-finance-6on4n9yv?hash=cc4ff04fce34c5ade2b7c09c18dc3fb4): An epub book - Trading systems developer interview guide by Jeff Vogel covering C++, Network, Low latency, system design, interview puzzles and other guidance
+    2. [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
+    3. [QuantPedia Resoruces](https://quantpedia.com/resources/) : Articles, blogs, papers on strategies and portfolio management.
 
-2. #### [Alex Remorov](https://alexanderrem.weebly.com/)
-Portfolio management and math olympiad 
-
-3. #### [Martin Harrier](https://www.hairer.org/)
-Stochastic analysis and PDEs, [Harrier's talk on scales](https://youtu.be/TOY52LF_ZTA)
-
-4. #### [Trading systems developer](https://zoboko.com/read/trading-systems-developer-interview-guide-c-edition-insiders-guide-to-top-tech-jobs-in-finance-6on4n9yv?hash=cc4ff04fce34c5ade2b7c09c18dc3fb4)
-An epub book: Trading systems developer interview guide by Jeff Vogel covering C++, Network, Low latency, system design, interview puzzles and other guidance
-
-5. #### [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
-
-6. #### [QuantPedia Resoruces](https://quantpedia.com/resources/)  
-Articles, blogs, papers on strategies and portfolio management.
-
-7. #### [Stanford ML cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
-Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by Shervine.
-
-8. #### Shalizi and related
+3. ### Shalizi and related
     1. [Advanced data Analysis from Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)  by Shalizi
     2. [Almost none of the theory of stochastic processes](https://www.stat.cmu.edu/~cshalizi/almost-none/) by Shalizi and Kentorovich  
     3. [Shalizi's old teaching page](http://bactra.org/teaching/)  
@@ -44,21 +33,22 @@ Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by She
     5. [Julian Faraway directory](https://people.bath.ac.uk/jjf23/)
     6. [MIT 15.071: The Analytics Edge](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017)
 
-9. #### More in Linear statistical models and related
+4. ### More in Linear statistical models and related
     1. [Linear Models in Statistics](https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf)  by Lencher and Schaalje
     2. [Ronald Christensen materials](https://www.stat.unm.edu/~fletcher/books.html): resources for statistical learning and data analysis
 
-10. #### Mathematical aspects in ML/DL
-    1. Book page: [Mathematical engineering of Deep Leanring](https://deeplearningmath.org/)
-    2. Notes: [Advanced Gradient Descent by C.W. Royer](https://www.lamsade.dauphine.fr/~croyer/ensdocs/GD/LectureNotesOML-GD.pdf)
-    3. [Jell Calder](https://www-users.cse.umn.edu/~jwcalder) : [Mathematics of image and data analysis](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf) notes, a good resource for GD, PCA, clustering, DFT/DWT
-    4. [Dive into Deep Learning](https://d2l.ai/)
-    5. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
+5. ### ML/DL and mathematical aspects
+    1. [Stanford ML cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/) : Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by Shervine
+    2. Book page: [Mathematical engineering of Deep Leanring](https://deeplearningmath.org/)
+    3. Notes: [Advanced Gradient Descent by C.W. Royer](https://www.lamsade.dauphine.fr/~croyer/ensdocs/GD/LectureNotesOML-GD.pdf)
+    4. [Jell Calder](https://www-users.cse.umn.edu/~jwcalder) : [Mathematics of image and data analysis](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf) notes, a good resource for GD, PCA, clustering, DFT/DWT
+    5. [Dive into Deep Learning](https://d2l.ai/)
+    6. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
 
-11. #### NLP
+6. ### NLP
     1. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 
-12. #### [Julia](https://julialang.org/)
+7. ### [Julia](https://julialang.org/)
     1. [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
     2. MIT course: [Julia Computation](https://github.com/mitmath/JuliaComputation)
     3. CTU course: [Julia for Optimization and Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
