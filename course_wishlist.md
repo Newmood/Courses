@@ -48,10 +48,12 @@ Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by She
     1. [Linear Models in Statistics](https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf)  by Lencher and Schaalje
     2. [Ronald Christensen materials](https://www.stat.unm.edu/~fletcher/books.html): resources for statistical learning and data analysis
 
-10. #### Mathematical aspects in ML/DL/data analysis
+10. #### Mathematical aspects in ML/DL
     1. Book page: [Mathematical engineering of Deep Leanring](https://deeplearningmath.org/)
     2. Notes: [Advanced Gradient Descent by C.W. Royer](https://www.lamsade.dauphine.fr/~croyer/ensdocs/GD/LectureNotesOML-GD.pdf)
     3. [Jell Calder](https://www-users.cse.umn.edu/~jwcalder) : [Mathematics of image and data analysis](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf) notes, a good resource for GD, PCA, clustering, DFT/DWT
+    4. [Dive into Deep Learning](https://d2l.ai/)
+    5. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
 
 11. #### NLP
     1. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
