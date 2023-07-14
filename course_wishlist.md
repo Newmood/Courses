@@ -44,6 +44,7 @@
     4. [Jell Calder](https://www-users.cse.umn.edu/~jwcalder) : [Mathematics of image and data analysis](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf) notes, a good resource for GD, PCA, clustering, DFT/DWT
     5. [Dive into Deep Learning](https://d2l.ai/)
     6. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
+    7. [Matrix Decomposition Methods for data mining: computational compexity andalgorithms](helda.helsinki.fi/server/api/core/bitstreams/f2228d54-503d-4fdb-bd52-6bd33f4d57f6/content)
 
 6. ### NLP
     1. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
