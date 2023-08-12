@@ -28,9 +28,7 @@
     5. [Dive into Deep Learning](https://d2l.ai/)
     6. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
     7. [Matrix Decomposition Methods for data mining: computational compexity andalgorithms](helda.helsinki.fi/server/api/core/bitstreams/f2228d54-503d-4fdb-bd52-6bd33f4d57f6/content)
-
-5. ### NLP
-    1. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+    8. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
 
 6. ### [Julia](https://julialang.org/)
     1. [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
