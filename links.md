@@ -1,9 +1,9 @@
 ## Some useful links
 1. ### Random:
     1. [Bruce Ikenaga, Millersville](https://sites.millersville.edu/bikenaga/math-resources.html) : Notes in pure math topics: linear algebra, abstract algebra calculus, topology, number theory (College level)
-    2. [Alex Remorov](https://alexanderrem.weebly.com/): Portfolio management and math olympiad 
-    3. [Martin Harrier](https://www.hairer.org/): Stochastic analysis and PDEs, [Harrier's talk on scales](https://youtu.be/TOY52LF_ZTA)
-    4. [Math Books](https://aimath.org/textbooks/approved-textbooks/)
+    2. [Martin Harrier](https://www.hairer.org/): Stochastic analysis and PDEs, [Harrier's talk on scales](https://youtu.be/TOY52LF_ZTA)
+    3. [Math Books](https://aimath.org/textbooks/approved-textbooks/)
+    4. [Article on Data Science Guide](https://www.learndatasci.com/best-data-science-online-courses/)
 2. ### Quant/Trading
     1. [Trading systems developer](https://zoboko.com/read/trading-systems-developer-interview-guide-c-edition-insiders-guide-to-top-tech-jobs-in-finance-6on4n9yv?hash=cc4ff04fce34c5ade2b7c09c18dc3fb4): An epub book - Trading systems developer interview guide by Jeff Vogel covering C++, Network, Low latency, system design, interview puzzles and other guidance
     2. [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
