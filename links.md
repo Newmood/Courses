@@ -29,6 +29,7 @@
     6. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
     7. [Matrix Decomposition Methods for data mining: computational compexity and algorithms](https://helda.helsinki.fi/items/14512dff-5075-4d4c-9f3b-7c9a0592dbbd)
     8. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+    9. [CS224U, stanford](http://web.stanford.edu/class/cs224u/index.html)
 
 6. ### [Julia](https://julialang.org/)
     1. [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
