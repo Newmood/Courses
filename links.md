@@ -24,12 +24,13 @@
     1. [Stanford ML cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/) : Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by Shervine
     2. Book page: [Mathematical engineering of Deep Leanring](https://deeplearningmath.org/)
     3. Notes: [Advanced Gradient Descent by C.W. Royer](https://www.lamsade.dauphine.fr/~croyer/ensdocs/GD/LectureNotesOML-GD.pdf)
-    4. [Jell Calder](https://www-users.cse.umn.edu/~jwcalder) : [Mathematics of image and data analysis](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf) notes, a good resource for GD, PCA, clustering, DFT/DWT
-    5. [Dive into Deep Learning](https://d2l.ai/)
-    6. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
-    7. [Matrix Decomposition Methods for data mining: computational compexity and algorithms](https://helda.helsinki.fi/items/14512dff-5075-4d4c-9f3b-7c9a0592dbbd)
-    8. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
-    9. [CS224U, stanford](http://web.stanford.edu/class/cs224u/index.html)
+    4. [Matrix Decomposition Methods for data mining: computational compexity and algorithms](https://helda.helsinki.fi/items/14512dff-5075-4d4c-9f3b-7c9a0592dbbd)
+    5. [Jell Calder](https://www-users.cse.umn.edu/~jwcalder) : [Mathematics of image and data analysis](https://www-users.cse.umn.edu/~jwcalder/5467Notes.pdf) notes, a good resource for GD, PCA, clustering, DFT/DWT
+    6. [Dive into Deep Learning](https://d2l.ai/)
+    7. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf)
+    9. [PennState: STAT508, Applied Data Mining and Statistical Learning](https://online.stat.psu.edu/stat508/book/)
+    10. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+    11. [CS224U, Stanford : Natural Language Understanding](http://web.stanford.edu/class/cs224u/index.html)
 
 6. ### [Julia](https://julialang.org/)
     1. [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
