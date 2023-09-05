@@ -1,6 +1,6 @@
 ## Some useful links
 1. ### Random:
-    1. [Dexter Chua] 
+    1. [Dexter Chua](https://dec41.user.srcf.net/)
     2. [Martin Harrier](https://www.hairer.org/): Stochastic analysis and PDEs, [Harrier's talk on scales](https://youtu.be/TOY52LF_ZTA)
     3. [Math Books](https://aimath.org/textbooks/approved-textbooks/)
     4. [Article on Data Science Guide](https://www.learndatasci.com/best-data-science-online-courses/)
