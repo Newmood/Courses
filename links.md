@@ -11,6 +11,7 @@
     2. [Designing low latency systems in C++](https://www.youtube.com/watch?v=8uAW5FQtcvE) session by David Gross
     3. [QuantPedia Resoruces](https://quantpedia.com/resources/) : Articles, blogs, papers on strategies and portfolio management.
     4. [Build an Exchange](https://www.janestreet.com/tech-talks/building-an-exchange/) : [Jane Street Tech Talks](https://www.janestreet.com/tech-talks/)
+    5. [Quantopian Lectures](https://gist.github.com/ih2502mk/50d8f7feb614c8676383431b056f4291)
 
 4. ### Data Analysis and related
     1. [Advanced data Analysis from Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)  by Shalizi
