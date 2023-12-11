@@ -22,6 +22,7 @@
     6. [MIT 15.071: The Analytics Edge](https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017)
     7. [Linear Models in Statistics](https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf)  by Lencher and Schaalje
     8. [Ronald Christensen materials](https://www.stat.unm.edu/~fletcher/books.html): resources for statistical learning and data analysis
+    9. [EDA by Jim Albert](https://bayesball.github.io/EDA/)
 
 5. ### ML/DL and mathematical aspects
     1. [Stanford ML cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/) : Cheatsheet for ML (CS 229), and associated, AI (CS 221), DL (CS 230) made by Shervine
