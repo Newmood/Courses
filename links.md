@@ -35,6 +35,7 @@
     9. [PennState: STAT508, Applied Data Mining and Statistical Learning](https://online.stat.psu.edu/stat508/book/)
     10. [The annotated transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
     11. [CS224U, Stanford : Natural Language Understanding](http://web.stanford.edu/class/cs224u/index.html)
+    12. [Deep Learning Course by Prof.Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/CS7015_2018.html)
 
 6. ### [Julia](https://julialang.org/)
     1. [From zero to Julia!](https://techytok.com/from-zero-to-julia/)
